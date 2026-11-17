@@ -23,11 +23,10 @@ Hiking-trail-segments-and-elevation-profiles/
 ├── README.md
 │
 └── data/
-    │
+    ├── README.md
     ├── Hiking_trails/
     │   ├── Hiking_trails.zip
     │   └── README.md
-    │
     └── Elevation_profiles/
         ├── StackProfileResults.csv
         └── README.md
