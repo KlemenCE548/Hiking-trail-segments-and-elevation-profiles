@@ -118,9 +118,10 @@ The published hiking trail geometries represent the trail segments used in the a
 
 ## Terms of Use
 
-The datasets are made publicly available to support research, independent verification, and reproducibility of the results presented in the associated study.
+The two datasets are made publicly available to support research, academic use, independent verification, and reproducibility of the results presented in the associated study. However, different terms of use apply to the two files.
 
-Users are welcome to use the datasets for research and other non-commercial academic purposes, provided that the original data sources and this repository are appropriately acknowledged.
+- **Hiking_trails.zip:** Provided under the custom license *Research Use Only – No Redistribution*. The dataset may be used for research, academic purposes, reproducibility, and independent verification of the study results, provided that the original data source and repository are appropriately acknowledged. Redistribution, republication, or sharing of the dataset, in whole or in part, is not permitted without prior written permission from the authors and the relevant data provider.
+- **StackProfileResults.csv:** Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. Reuse is permitted under the terms of this license, provided that appropriate attribution is given.
 
 The datasets should not be presented as original field-recorded GPS tracks or as an official representation of the complete Slovenian hiking trail network.
 
@@ -131,7 +132,8 @@ The datasets were prepared using **ArcGIS Pro 3.6**.
 ## Related Resources
 
 - **Analysis scripts:** [Fractal-dimension-of-line-features-Repo](https://github.com/KlemenCE548/Fractal-dimension-of-line-features-Repo)
-- **Archived analysis scripts:** [Zenodo record](https://doi.org/10.5281/zenodo.18860499)
+- **Archived analysis scripts:** [Zenodo software record](https://doi.org/10.5281/zenodo.18860499)
+- **Published datasets:** [Zenodo dataset record](https://doi.org/10.5281/zenodo.24307748)
 - **Associated PLOS ONE article:** [Article link to be added after publication]
 - **Supporting Information:** S2 File contains the processed data underlying the analyses of the 25 hiking trail segments, including the fractal-dimension estimates and associated metadata reported in the study.
 
@@ -139,7 +141,7 @@ The datasets were prepared using **ArcGIS Pro 3.6**.
 
 If you use these datasets for research purposes, please cite the following record:
 
-Prah, K., Šinko, S., & Shortridge, A. M. (2026). *Hiking Trail Segments and Elevation Profiles for Fractal-Dimension Analysis of Hiking Trails* (Version 1.0.0). Zenodo. https://doi.org/[DOI TO BE ADDED]
+Prah, K., Šinko, S., & Shortridge, A. M. (2026). *Hiking Trail Segments and Elevation Profiles for Fractal-Dimension Analysis of Hiking Trails* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24307748
 
 ## Authors
 
